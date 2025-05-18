@@ -1,12 +1,12 @@
-# DDoS-Ripper
+# DDoS-Novy
 
-# What is a DDoS Attack?
-A Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
+# >>Apa itu Serangan DDoS?
+Server serangan Distributable Denied-of-Service (DDOS) yang memutus target atau infrastruktur di sekitarnya dalam banjir lalu lintas Internet
 
-DDoS attacks achieve effectiveness using multiple compromised computer systems as a source of attack traffic. Search engines may include computers and other network resources such as IoT devices.
-From a higher level, the DDOS attack is like an unexpected traffic jam stuck on a highway, preventing regular traffic from reaching its destination.
+Serangan DDoS efektif dengan menggunakan beberapa sistem komputer yang disusupi sebagai sumber lalu lintas serangan. Mesin pencari dapat menyertakan komputer dan sumber daya jaringan lainnya seperti perangkat IoT.
+Dari sudut pandang yang lebih tinggi, serangan DDOS seperti kemacetan lalu lintas yang tak terduga di jalan raya, mencegah biasa mencapai ketujuannya.
 
-## NOTE (Please, make sure you have installed python 3 )
+## CATATAN (Harap pastikan Anda telah menginstal python 3)
 
 ![dddd](https://user-images.githubusercontent.com/49250151/96265488-57e53d00-0f7a-11eb-8936-ce2e9a2c42cd.PNG)
 
